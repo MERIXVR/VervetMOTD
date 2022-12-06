@@ -1,0 +1,3 @@
+Message Of The Day
+Welcome to the first ever version of vervet! As you can tell this is a VERY early version of the game
+And id rather just consider this a test build of the game, more complex updates will be out later.
